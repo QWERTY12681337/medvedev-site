@@ -20,7 +20,7 @@ body {
     width: 100%;
     max-width: 420px;
     padding: 30px 24px;
-    background: #ffffff;
+    background: #fff;
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 12px 35px rgba(0, 0, 0, 0.18);
@@ -67,6 +67,7 @@ h2 {
     width: 100%;
     margin-top: 12px;
     padding: 13px 16px;
+    border: none;
     border-radius: 10px;
     text-decoration: none;
     font-size: 15px;
@@ -76,12 +77,12 @@ h2 {
 
 .button:hover {
     transform: translateY(-2px);
-    opacity: 0.88;
+    opacity: 0.85;
 }
 
 .more {
     background: #0f766e;
-    color: #ffffff;
+    color: #fff;
 }
 
 .video {
